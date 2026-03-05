@@ -1,0 +1,3 @@
+The program reads a FASTA file that contains gene sequences and checks each gene to determine whether it contains restriction sites of different restriction enzymes. For every gene in which at least one restriction site is found, the program writes to an output file the gene name, the enzyme name, the number of sites found, and the restriction site sequences.
+
+At the end of the program, it counts how many genes contain at least one restriction site, and a summary is printed.
